@@ -3,5 +3,5 @@
 **Name:** Anonymous
 
 You:
--[ ] like
--[ ] dislike
+- [ ] like
+- [ ] dislike
