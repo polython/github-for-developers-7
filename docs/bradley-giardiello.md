@@ -5,3 +5,5 @@
 You:
 - [ ] like
 - [ ] dislike
+
+[Let me Google that for you!](http://www.google.com)
